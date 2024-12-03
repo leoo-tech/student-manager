@@ -1,0 +1,13 @@
+O MySQL installer pode ser adquirido nesse:
+
+https://dev.mysql.com/downloads/installer/
+
+
+tutorial:
+
+https://www.alura.com.br/artigos/mysql-do-download-e-instalacao-ate-sua-primeira-tabela
+
+
+Username: root
+password: senha
+port: 3306

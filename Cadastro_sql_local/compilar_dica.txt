@@ -1,0 +1,4 @@
+javac -cp .:/caminho/para/mysql-connector-j-8.2.0.jar aluno1.java
+
+
+javac -cp mysql-connector-j-8.2.0.jar aluno1.java
